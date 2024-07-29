@@ -1,0 +1,3 @@
+C:/Users/cristhiamcampos/Documents/cristhiamdaniel/PUJ/2024-02/Course-AdvancedProgramming-/cmake-build-debug/CMakeFiles/Course_AdvancedProgramming_.dir
+C:/Users/cristhiamcampos/Documents/cristhiamdaniel/PUJ/2024-02/Course-AdvancedProgramming-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cristhiamcampos/Documents/cristhiamdaniel/PUJ/2024-02/Course-AdvancedProgramming-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

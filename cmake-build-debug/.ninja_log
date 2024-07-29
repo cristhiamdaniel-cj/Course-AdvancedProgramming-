@@ -1,0 +1,7 @@
+# ninja log v6
+3	879	7436131264345452	build.ninja	402ccaeb584800d9
+7	937	7435660988011387	CMakeFiles/Course_AdvancedProgramming_.dir/Taller01/main.cpp.obj	a295cc8beddd165e
+43	1185	7435660988373090	CMakeFiles/Course_AdvancedProgramming_.dir/Taller01/regresion_lineal.cpp.obj	b462f724e7213091
+1185	1872	7435660999794783	Course_AdvancedProgramming_.exe	f79e184f1d04af17
+19	1617	7436142563718855	CMakeFiles/Course_AdvancedProgramming_.dir/Taller01/main.cpp.obj	a295cc8beddd165e
+1620	2779	7436142579724525	Course_AdvancedProgramming_.exe	f79e184f1d04af17

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Course_AdvancedProgramming_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Course_AdvancedProgramming_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Course_AdvancedProgramming_-Debug-dbed0af1c9e433fa0ab8.json",
+					"name" : "Course_AdvancedProgramming_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/cristhiamcampos/Documents/cristhiamdaniel/PUJ/2024-02/Course-AdvancedProgramming-/cmake-build-debug",
+		"source" : "C:/Users/cristhiamcampos/Documents/cristhiamdaniel/PUJ/2024-02/Course-AdvancedProgramming-"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
